@@ -1,0 +1,59 @@
+Cat;(Die) Katze
+-Dog;(Der) Hund
+-To buy;Kaufen
+-Yes;Ja
+-To;Zu
+-From;Von
+-With;Mit
+-On top of;Auf
+-For;Fuer
+-Near;Bei
+-After;Nach
+-Around;Um
+-Over;UEber
+-In front of;Vor
+-Through;Durch
+-Until;Bis
+-Under;Unter
+-Between;Zwischen
+-Against;Gegen
+-Through;Durch
+-Along;Entlang
+-German;Deutsch
+-One;Eins
+-Two;Zwei
+-Three;Drei
+-Four;Vier
+-Five;Fuenf
+-Six;Sechs
+-Seven;Sieben
+-Eight;Acht
+-Nine;Neun
+-Ten;Zehn
+-Son;(der) Sohn
+-Sister;(die) Schwester
+-House;(das) Haus
+-Clean;Sauber
+-As;Wie
+-That;Dass
+-Honey;(der) Honig
+-Milk;(die) Milch
+-Butter;(die) Butter
+-Nut;(die) Nuss
+-This;Dies
+-Some;Einige
+-Or;Oder
+-Breakfast;(das) Fruehstueck
+-to need;brauchen
+-to meet;treffen
+-to trade;handeln
+-to lose;verlieren
+-to recognise;erkennen
+-to close;schliessen
+-to feel;fuehlen
+-to offer;bieten
+-to wait;warten
+-Rubbish;(der) Muell
+-wall;(die) Wand
+-stove;(der) Herd
+-cabinet;(das) Kabinett
